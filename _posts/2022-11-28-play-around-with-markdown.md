@@ -14,7 +14,8 @@ categories: devblog
 ---
 
 This is **bold text**
-This is *Italicized text* 
+This is *Italicized text*
+
 > "Quote from a famous person"
 
 1. number 1

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memory Puzzle Research: Sudoku"
-date:   2022-12-4
+date:   2022-12-04 22:00:22 +0900
 categories: devblog
 ---
 
@@ -19,19 +19,19 @@ In classic Sudoku, the objective is to fill a **9 × 9 grid** with digits so tha
 
 ## How to play Sudoku properly (Rules)
 
-#### Rule 1. Use numbers from 1 to 9
+### Rule 1. Use numbers from 1 to 9
 
 A **9 x 9 grid** is used to play Sudoku. There are nine "squares" in the rows and columns (made up of 3 x 3 spaces). You must fill out all nine slots in each row, column, and square with the numbers **1 through 9**, without repeating any numbers.
 
-#### Rule 2. Don’t Repeat Any Numbers
+### Rule 2. Don’t Repeat Any Numbers
 
 We can use process of elimination and deductive reasoning to determine which numbers should belong in each empty area by examining which numbers are missing from each square, row, or column.
 
-#### Rule 3. Don't guess
+### Rule 3. Don't guess
 
 You shouldn't have to guess because sudoku is a game of logic and reasoning. If you are unsure of what to put in a particular space, keep looking at the other parts of the grid until you see a chance to do so.
 
-#### Rule 4. Use Process of Elimination
+### Rule 4. Use Process of Elimination
 
 Since there cannot be a duplicate of the numbers 1 through 9 within a square, one method of determining which numbers can fit in each space is to use the "process of elimination" by looking to see which other numbers are already included within each square.
 

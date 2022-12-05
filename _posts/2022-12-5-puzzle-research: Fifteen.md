@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Puzzle Research: Fifteen"
-date:   2022-12-4
+date:   2022-12-04 22:05:22 +0900
 categories: devblog
 ---
 

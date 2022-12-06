@@ -11,11 +11,15 @@ This article introduces the puzzle `Sudoku` and how it affects player's brain.
 
 You can play the puzzle `Sudoku` by clicking this [**link**](https://sudoku.com/)
 
+---
+
 ## Introduction
 
 In classic Sudoku, the objective is to fill a **9 × 9 grid** with digits so that each column, each row, and each of the nine **3 × 3 subgrids** that compose the grid, also called "boxes", contain all of the digits from **1 to 9**.  
  The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution.
 (From [Wikipedia](https://en.wikipedia.org/wiki/Sudoku))
+
+---
 
 ## How to play Sudoku properly (Rules)
 
@@ -36,6 +40,8 @@ You shouldn't have to guess because sudoku is a game of logic and reasoning. If 
 Since there cannot be a duplicate of the numbers 1 through 9 within a square, one method of determining which numbers can fit in each space is to use the "process of elimination" by looking to see which other numbers are already included within each square.
 
 (Resources from [this article](https://info.thinkfun.com/stem-education/four-ways-sudoku-promotes-brain-health))
+
+---
 
 ## How it improves your brain
 

@@ -16,6 +16,7 @@ Our team is planning on making a puzzle game that improves player's memorization
 Among many candidates and ideas, we primarily selected the puzzle called `따라길찾기`, a.k.a `Navigating Game` (temporary).  
 The main goal of this game is to let the player memorize and follow the path(pattern) that the computer randomly generated.  
 The figure below is the first rough idea created during brainstorming:
+
 ![Puzzle Idea 1](https://commons.wikimedia.org/wiki/File:Puzzle_idea.png)
 
 ## Basic Rule of the Puzzle (rough)
@@ -30,4 +31,5 @@ The figure below is the first rough idea created during brainstorming:
 
 The story of [`Hansel and Gretel`](https://en.wikipedia.org/wiki/Hansel_and_Gretel) will be the main story of our navigating game.  
 Therefore, the concept of our game will be like one of the pictures below:  
+
 ![Hansel and Gretel concept](https://commons.wikimedia.org/wiki/File:Hensel_and_Gretel_puzzle.png)

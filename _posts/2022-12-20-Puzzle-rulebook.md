@@ -22,7 +22,7 @@ categories: devblog
 ## Tutorial of our Puzzle
 
 A tutorial is a simple instruction that players can follow. The tutorial lets players know how to play, win, or lose. However, a tutorial may **not** include **all** the details, letting player to figure out themselves while playing the game.  
-
 Here is the pictue of our puzzle's tutorial below:
+
 ![Tutorial 1](https://upload.wikimedia.org/wikipedia/commons/e/e1/Tutorial_1.png)
 ![Tutorial 2](https://upload.wikimedia.org/wikipedia/commons/5/5b/Tutorial_2.png)
